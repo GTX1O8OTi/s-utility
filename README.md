@@ -1,2 +1,2 @@
 # Something i made for linux
-## Tested with currently: nothing
+### Tested with wine 6.12
